@@ -1,1 +1,0 @@
-<rk-redirect to="/Release-Notes/WisToolBox/" />
